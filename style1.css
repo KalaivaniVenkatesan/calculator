@@ -1,0 +1,37 @@
+
+           
+            h1{
+                font-family:Arial, sans-serif;
+                font-style:italic;
+                font-style:italic;
+                font-weight:bold;
+                font-variant:small-caps;
+ 
+             }
+             p{
+                 font-family:"Bevan",serif;
+             }
+             a:link{
+                 color:red;
+             }
+             a:visited{
+                 color:pink;
+             }
+             a:hover{
+                 color:green;
+             }
+             a:active{
+                 color:purple;
+             }
+             ol{
+                 list-style-type:circle;
+                 
+                 list-style-position:inside;
+             }
+             ul{
+                 list-style-type:disc;
+                 list-style-position:outside;
+             }
+             
+              
+            
